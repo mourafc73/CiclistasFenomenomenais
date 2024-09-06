@@ -1,15 +1,17 @@
 let dados = [
     {
-        titulo: "Rayssa Leal",
-        descricao: "Rayssa Leal, a Fadinha, é uma skatista brasileira que conquistou o mundo com seu talento e carisma. Aos poucos anos, ela já coleciona títulos e inspira milhões de jovens.",
-        link: "https://pt.wikipedia.org/wiki/Rayssa_Leal",
-        tags: "skate fada sk8"
+        titulo: "Tadej Pogačar",
+        Pais: "Eslovênia",
+        descricao: "Com apenas alguns anos de carreira profissional, Pogačar já conquistou múltiplas vitórias no Tour de France e em outras grandes voltas. Sua combinação de força, habilidade técnica e mentalidade vencedora o coloca entre os maiores ciclistas da história",
+        link: "https://en.wikipedia.org/wiki/Tadej_Poga%C4%8Dar",
+        tags: "Ciclismo Estrada Tour de France"
     },
     {
-        titulo: "Beatriz Souza",
-        descricao: "Beatriz Souza é uma judoca brasileira que se destacou nos Jogos Olímpicos de Paris 2024, conquistando a medalha de ouro e inspirando novas gerações de atletas.",
-        link: "https://pt.wikipedia.org/wiki/Beatriz_Souza",
-        tags: "judô judo judoca judoka"
+        titulo: "Mathieu van der Poel",
+        Pais: "Holanda",
+        descricao: "Um verdadeiro multitalento, van der Poel domina diversas disciplinas do ciclismo. Seja em provas de um dia, clássicas ou até mesmo em campeonatos mundiais de ciclocross, ele sempre é um forte candidato ao pódio.",
+        link: "https://en.wikipedia.org/wiki/Mathieu_van_der_Poel",
+        tags: "Ciclocross MTB  estrada"
     },
     {
         titulo: "Rebeca Andrade",
