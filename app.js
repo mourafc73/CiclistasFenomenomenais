@@ -15,6 +15,7 @@ function pesquisar() {
     // Inicializa uma string vazia para armazenar os resultados
     let resultados = "";
     let titulo = ""; 
+    let pais = "";
     let descricao = "";
     let tags = "";
 
@@ -22,6 +23,7 @@ function pesquisar() {
     for (let dado of dados) {
         titulo = dado.titulo.toLowerCase()
         descricao = dado.descricao.toLowerCase()
+        pais = dado.pais.toLowerCase()
         tags = dado.tags.toLowerCase()
         // se titulo includes campoPesquisa
         if (titulo.includes(campoPesquisa) || descricao.includes(campoPesquisa) || tags.includes(campoPesquisa)) {
@@ -31,6 +33,7 @@ function pesquisar() {
                 <h2>
                     <a href="#" target="_blank">${dado.titulo}</a>
                 </h2>
+                <p class="pais-meta">${dado.pais}</p>
                 <p class="descricao-meta">${dado.descricao}</p>
                 <a href=${dado.link} target="_blank">Mais informações</a>
             </div>
