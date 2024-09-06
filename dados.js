@@ -23,7 +23,7 @@ let dados = [
     {
         titulo: "Remco Evenepoell",
         pais: "Bélgica",
-        descricao: "Um verdadeiro multitalento, van der Poel domina diversas disciplinas do ciclismo. Seja em provas de um dia, clássicas ou até mesmo em campeonatos mundiais de ciclocross, ele sempre é um forte candidato ao pódio.",
+        descricao: "Mesmo jovem, Evenepoel já demonstra um talento excepcional para o ciclismo. Suas habilidades em provas contra o relógio e sua capacidade de escalar montanhas o colocam como um dos grandes favoritos para as próximas temporadas.",
         link: "https://en.wikipedia.org/wiki/Remco_Evenepoel",
         tags: "Estrada  Ouro Olimpico Contra-relógio  grandes voltas"
     }
